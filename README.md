@@ -1,10 +1,10 @@
- # React-Ecommerce-App 💳
+ # React-Ecommerce-App 🛒
 
  <br>
 
 
 
-#### In this project, the user can buy and sell the products on the page with their current money. This project was completed using CSS and React.js and my purpose in making this project was to experience the basic React.js features. <br> <br> <br>
+#### This project is an e-commerce application. In this project, the user can add and remove products from the shop section to the cart. It is also possible to add and remove products from the Cart section. And the total amount of the added products is calculated. This project was completed using React.js and Tailwind and my purpose in making this project was to experience the basic Context API and React-router-dom features. <br> <br> <br>
 
 My achievements were:
 - Master layout creation
@@ -22,4 +22,8 @@ diff
 ## If you want to see my project <a href="beyzaarslanturk-react-ecommerce-app.netlify.app">Click Here!</a> 
 
 
-![alt text](https://github.com/beyzaarslanturk/React-MoneySpendingApp/blob/master/money-spending-appp.png)
+![alt text](https://github.com/beyzaarslanturk/react-ecommerce-app/blob/master/ecommerce-app.png)
+<br>
+![alt text](https://github.com/beyzaarslanturk/react-ecommerce-app/blob/master/ecommerce-app1.png)
+
+
