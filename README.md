@@ -19,7 +19,7 @@ diff
 - (That project upload for seeing my self-improvement ) ! 
 
 
-## If you want to see my project <a href="beyzaarslanturk-react-ecommerce-app.netlify.app">Click Here!</a> 
+## If you want to see my project <a href="https://beyzaarslanturk-react-ecommerce-app.netlify.app/">Click Here!</a> 
 
 
 ![alt text](https://github.com/beyzaarslanturk/react-ecommerce-app/blob/master/ecommerce-app.png)
